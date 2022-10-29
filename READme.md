@@ -7,3 +7,7 @@
 ### W3Schools at https://www.w3schools.com/ was vital to this project. Thanks to my instructor and TAs who help me understand the covered topics.
 
 ### Where to find my password generator
+
+https://alester77.github.io/2password/
+
+![My image] (../images.passwordgen.png).
