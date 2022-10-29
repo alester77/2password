@@ -10,4 +10,4 @@
 
 https://alester77.github.io/2password/
 
-![My image] (../images.passwordgen.png).
+<img src="/assets/images/passwordgen.png">
